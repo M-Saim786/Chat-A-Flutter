@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7021509287",
+    "firebase_url": "https://messenger-react-c2f50-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "messenger-react-c2f50",
+    "storage_bucket": "messenger-react-c2f50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7021509287:android:e69e84df79a93eafcef982",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7021509287-gb8d615ds1ldhvaqe3tto8hsicnooglv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uXaKxriMfMUuRmah7b0rOQF54dmqrJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7021509287-gb8d615ds1ldhvaqe3tto8hsicnooglv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
